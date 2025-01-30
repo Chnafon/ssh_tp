@@ -1,7 +1,8 @@
 # TP Audit SSH
 ## Context
- Find in the repository a SSH configuration file named `sshd_config`.
- This file contains the full configuration on an SSH server that is run on a host your users will need to access.
+Find in the repository a SSH configuration file named `sshd_config`.
+
+This file contains the full configuration on an SSH server that is run on a host your users will need to access.
 
 ## TODO
 Audit this configuration file to find any security issue, explain why this is a problem and propose a mitigation for each issue.
